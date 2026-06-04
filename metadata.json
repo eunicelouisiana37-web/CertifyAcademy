@@ -1,0 +1,6 @@
+{
+  "name": "Certificate Issuing Platform",
+  "description": "A high-performance web platform to bulk-generate automated PDF academy certificates from CSV lists, batch download ZIP archives, and manage dispatch queues with zero hosting overhead.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
